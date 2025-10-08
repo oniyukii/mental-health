@@ -1,7 +1,7 @@
 **Se pensi di essere in pericolo, per favore: chiama un numero di assistenza psicologica. Sono gratuiti, garantiscono l’anonimato, e sono attivi 24 ore su 24, 7 giorni su 7:**
 
 **USA:** [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org) – 1-800-273-8255    
-**USA:** [The Trevor Project (per membri comunità LGBTQ)](https://www.thetrevorproject.org) – 1-866-488-7386    
+**USA:** [Trevor Project (per membri comunità LGBTQ)](https://www.thetrevorproject.org) – 1-866-488-7386    
 **UK:** [Samaritans](https://www.samaritans.org) – 116 123    
 Per altri paesi: [consulta la lista su Wikipedia](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines).
 
@@ -15,7 +15,7 @@ Per consigli sulla salute mentale di fonti ufficiali, e non di una persona rando
 2. **[Tentativi di Terapia](#toc_1)** (storia + teoria)
 3. **[Scopo della Sofferenza e dei Sentimenti](#toc_2)** (teoria)
 4. **[Introduzione alle abitudini](#toc_3)** (teoria + consigli pratici)
-5. **[9 abitudini della salute mentale basati sull’evidenza](#toc_4)** (💥**IMPORTANTE**💥)
+5. **[9 abitudini della salute mentale basate sull’evidenza](#toc_4)** (💥**PARTE VERAMENTE IMPORTANTE**💥)
 6. **[In sintesi](#toc_18)** (riassunto generale)
 7. **[Io & il mio lupo](#toc_19)** (storia)
 8. **[Fonti extra](#toc_20)** (consigli pratici)
@@ -70,7 +70,7 @@ Ma ho avuto l’ispirazione di provare *finalmente* la psicoterapia. Prima ho pr
 
 La PCC mi ha aiutato molto, ma raggiunsi subito una fase di stallo. Il mio problema era che usavo la PCC come *arma* contro le mie paure, ritenendole ancora mie *nemiche*.
 
-Poi, ho provato una terapia basata sulla [consapevolezza di sé](https://it.wikipedia.org/wiki/Mindfulness), nello specifico: [Terapia di Accettazione e di Impegno](https://it.wikipedia.org/wiki/Acceptance_and_Commitment_Therapy), che consiglia *non* di combattere contro i tuoi pensieri, ma di lasciar scorrere i tuoi sentimenti. (Mi è stata detta questa metafora: l’ansia è come le sabbie mobili: più ti agiti, prima sprofondi. Quindi: non ti agitare).
+Poi, ho provato una terapia basata sulla [consapevolezza di sé](https://it.wikipedia.org/wiki/Mindfulness), nello specifico: [Terapia di Accettazione e di Impegno](https://it.wikipedia.org/wiki/Acceptance_and_Commitment_Therapy), che consiglia *non* di combattere contro i tuoi pensieri, ma di lasciar scorrere i tuoi sentimenti. (Mi è stata detta questa metafora: l’ansia è come le sabbie mobili: più ti agiti, prima sprofondi. Quindi: non ti agitare)
 
 Di nuovo, usavo la consapevolezza di sé come un altro modo per *ignorare* le mie paure. Erano *ancora* mie nemiche.
 
@@ -78,11 +78,11 @@ Mi ci è voluta una *decade* per capirlo, ma la paura–
 
 Aspetta, il mio lupo vuole dire qualcosa:
 
-> 🐺 Nicky, la PCC e la consapevolezza di sé hanno aiutato *milioni* di persone, e sono un risultato di *centinaia* di studi. Chi siamo *noi* per buttare fango su qualcosa che ha salvato delle *vite*?
+> 🐺 Nicky, la PCC e la consapevolezza di sé hanno aiutato *milioni* di persone, e sono un risultato di *centinaia* di studi. Chi siamo *noi* per buttare fango su qualcosa che ha salvato delle *vite*?!
 
 Grazie, lupo! Giusta osservazione.
 
-Voglio chiarire una cosa: la PCC e la consapevolezza di sé *aiuta* le persone. A *me* hanno aiutato enormemente.
+Voglio chiarire una cosa: la PCC e la consapevolezza di sé *aiutano* le persone. A *me* hanno aiutato enormemente.
 
 Tuttavia, nessuna tecnica funzionerà, se credi che la paura sia la *nemica* da “sovrastare” o “conquistare”, o una cosa fastidiosa da sopportare “consapevolmente”. Dicevo: mi ci è voluta una decade per capirlo, ma la paura non è una nemica.
 
@@ -104,9 +104,9 @@ Meno ovvio: è *buono* che faccia male.
 
 Il dolore è un sistema di allarme. Ti dice quando le cose non sono buone, *il che è buono*.
 
-(CURIOSITÀ: C’è una condizione chiamata [insensibilità congenita al dolore](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), dove i soggetti non provano dolore. Di conseguenza, gli adulti con questa condizione riportano molte ferite, bruciature, ed ossa rotte. Loro sono fortunati, gli altri sono morti)
+(CURIOSITÀ: C’è una rara condizione chiamata [insensibilità congenita al dolore](https://en.wikipedia.org/wiki/Congenital_insensitivity_to_pain), dove i soggetti non provano dolore. Di conseguenza, gli adulti con questa condizione riportano molte ferite, bruciature, ed ossa rotte. Loro sono fortunati, gli altri sono morti)
 
-Tuttavia, *prima* di farti male, dovresti avere un altro sistema di allarme, chiamato “paura”: un allarme che predice e aiuta a proteggerti da *danni* futuri.
+Tuttavia, *prima* di farti male, dovresti avere un altro sistema di allarme, chiamato “paura”: un allarme che predice e aiuta a proteggerti da danni *futuri*.
 
 Danni a cosa? Ai tuoi bisogni umani essenziali:
 
@@ -142,7 +142,7 @@ Quando l’allarme antincendio si attiva:
 * Una persona sana sa che deve spegnere i fornelli, aprire la finestra, e versare il bicarbonato sulle fiamme. Se l’allarme è troppo sensibile, si sposterà da qualche altra parte.
 * Una persona ansiosa butta l’acqua sulle fiamme, alimentandole. O si tappa le orecchie per non sentire l’allarme. O rompe il vetro con un martello. O prova a discutere razionalmente con l’allarme sulle sue distorsioni. O decide “consapevolmente” di ignorarlo.
 
-Una volta capito che “emozioni = allarmi e segnali”, ho appurato che quelle che pensavo fossero falle delle emozioni in realtà fossero delle caratteristiche vere e proprie! Le emozioni “negative” si attivano da sé e non puoi disattivarle a tua volontà (*una buona caratteristica per un rilevatore automatico di fumo*). Le emozioni *positive* non durano mai a lungo, si devono sempre riaggiustare da sé alla tua normalità (*una buona caratteristica per i termostati intelligenti*).
+Una volta capito che “emozioni = allarmi e segnali”, ho appurato che quelle che pensavo fossero falle delle emozioni in realtà sono delle caratteristiche vere e proprie! Le emozioni “negative” si attivano da sé e non puoi disattivarle a tuo piacimento (*una buona caratteristica per un rilevatore automatico di fumo*). Le emozioni *positive* non durano mai a lungo, si devono sempre riaggiustare da sé alla tua normalità (*una buona caratteristica per i termostati intelligenti*).
 
 Una bella vita non consiste nel minimizzare il dolore e massimizzare il piacere. È come un bar, il cui obiettivo è di minimizzare gli allarmi e massimizzare il tintinnio della campanella all’ingresso. Le emozioni *NON* sono il fine, ma il *mezzo* per il fine: una vita soddisfacente.
 
@@ -152,7 +152,7 @@ Ecco perché dico “la paura non è una nemica, ma un’amica”. Ma che tipo d
 
 Quando dice “nessuno ci vuole bene!”, sta provando (a modo suo) a proteggere il tuo bisogno di appartenenza. Quando dice “siamo cattive persone!”, sta provando (a modo suo) a proteggere il tuo bisogno di crescita personale.
 
-(Il concetto di un subagente nella tua testa, per quanto possa sembrare assurdo, è saltato fuori separatamente in diversi ambiti: ["Sistema 1 e Sistema 2"](https://it.wikipedia.org/wiki/Pensieri_lenti_e_veloci) nell’economia comportamentale, ["L’elefante e il fantino"](https://en.wikipedia.org/wiki/The_Righteous_Mind) nella psicologia sociale, ["La società della mente"](https://en.wikipedia.org/wiki/Society_of_Mind) nella scienza cognitiva, etc)
+(Il concetto di un subagente nella tua testa, per quanto possa sembrare assurdo, è saltato fuori separatamente in diversi ambiti: ["Sistema 1 e Sistema 2"](https://it.wikipedia.org/wiki/Pensieri_lenti_e_veloci) nell’economia comportamentale, ["L’elefante e il fantino"](https://en.wikipedia.org/wiki/The_Righteous_Mind) nella psicologia sociale, ["La società della mente"](https://en.wikipedia.org/wiki/Society_of_Mind) nella scienza cognitiva, ecc.)
 
 Tuttavia, potresti avere un cane iperattivo che abbaia alla luna. Non è colpa sua. Forse in passato è stato maltrattato e abbandonato. Ma il cane vuole veramente aiutarti! Si tratta letteralmente di funzione adattiva.
 
@@ -182,14 +182,14 @@ Ecco un breve riassunto della scienza della formazione delle abitudini, [rielabo
 2. **Per costruire un’abitudine, devi avere un Quando costante.**
    Esempio: se stai provando a mangiare più sano, non dire solo “mangerò più frutta”. Datti *orario e luogo specifici*, ad esempio: “dopo aver pranzato a casa, mangerò un po’ di frutta”. (In psicologia è conosciuta come la [tecnica del “se-allora”. [pdf]](http://kops.uni-konstanz.de/bitstream/handle/123456789/10101/99Goll_ImpInt.pdf))
    
-3. **Per costruire un’abitudine, devi avere un semplice Allora.**
+3. **Per costruire un’abitudine, devi avere un Allora semplice.**
    Esempio: se vuoi iniziare con la meditazione, *non* iniziare con “30 minuti al giorno”. Inizia con “2 minuti al giorno”. Una volta che 2 minuti diventano un’abitudine, *solo allora* puoi aumentarli.
    
 4. **Per *interrompere* un’abitudine, cambia il Quando o l’Allora.**    
    Esempio: per smettere di procrastinare, uso delle app per bloccare siti allettanti (Ulisse si legò all’albero maestro per resistere al canto delle sirene).
    
 5. **Tieni traccia dei tuoi progressi**    
-    Cosa faccio io: per ogni giorno che ho completato un piano Quando→Allora, faccio un n ⭕ sul calendario, altrimenti faccio una ❌.
+    Cosa faccio io: per ogni giorno che ho completato un piano Quando→Allora, faccio un ⭕ sul calendario, altrimenti faccio una ❌.
     
 6. **NON costruire più di un’abitudine alla volta.**
 
@@ -204,7 +204,7 @@ Giusta osservazione! Aggiungerò in alto un link diretto alle sezioni sulle abit
 
 ---
 
-# 9 abitudini della salute mentale basati sull’evidenza
+# 9 abitudini della salute mentale basate sull’evidenza
 
 Questa lista ti aiuterà ad iniziare a migliorare *oggi* la tua salute mentale. 9 abitudini sembrano tante, quindi scegline *una* dalla lista, crea un mini piano Quando→Allora, e tieni traccia dei tuoi progressi per 66 giorni finché non diventa automatico. Poi torna, scegli un’altra abitudine, e ripeti.
 
@@ -212,7 +212,7 @@ Questa lista ti aiuterà ad iniziare a migliorare *oggi* la tua salute mentale. 
 
 ### 😌 Meditazione:
 
-Sì, ormai è un cliché, ma è stato mostrato nelle metanalisi che la meditazione [aiuta per l’ansia e la depressione](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754).
+Sì, ormai è un cliché, ma è stato dimostrato nelle metanalisi che la meditazione [aiuta per l’ansia e la depressione](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1809754).
 
 Tuttavia, c’è un altro cliché sulla meditazione che andrebbe smentito: l’obiettivo NON è “sgomberare la mente”. Tipico errore da principianti! L’obiettivo è *osservare* la mente, come uno scienziato: senza giudicare. Quando il lupo inizia a ululare, e continuerà a farlo, non aver paura della paura. Ascolta. Osserva.
 
@@ -248,7 +248,7 @@ Ecco come mi sento quando gli articoli si sorprendono che la salute fisica influ
 
 ### 😴 Dormire:
 
-Se la selezione naturale decidesse di metterti KO per un terzo della tua vita, puoi *scommetterci* la casa che ci deve essere un grosso vantaggio a giustificare un rapporto costi/benefici del genere.
+Se la selezione naturale decidesse di metterti KO per un terzo della tua vita, puoi *scommetterci* la casa che ci deve essere un grosso vantaggio nel giustificare un rapporto costi/benefici del genere.
 
 Ed è così. Il direttore del Centro per la Scienza Umana del Sonno dell’Università di Berkeley in California, [nel suo libro](https://www.indiebound.org/book/9781501144318), spiega che una buona dormita riduce i rischi di cardiopatie, cancro, Alzheimer, depressione, ansia, e tanto altro. Come disse una volta l’autore di un best-seller per bambini: [Vai a dormire, c***o! ](https://www.indiebound.org/book/9781617750250).”
 
@@ -258,7 +258,7 @@ Consigliato: [F.lux](https://justgetflux.com/). Un’app che imposta lo schermo 
 
 ### 🏃‍♀️ Esercizio:
 
-Andare a correre. Fare un’escursione. Giocare col frisbee. Basta una mezz’ora al giorno di esercizio moderato per dare grandi benefici alla salute fisica *e* mentale. [Una recente metanalisi](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) dimostra che fare esercizio riduce la depressione *quanto* la psicoterapia o i farmaci
+Andare a correre. Fare un’escursione. Giocare col frisbee. Basta una mezz’ora al giorno di esercizio moderato per dare grandi benefici alla salute fisica *e* mentale. [Una recente metanalisi](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) dimostra che fare esercizio riduce la depressione *quanto* la psicoterapia o i farmaci.
 
 **Esempio piano Quando→Allora:** *“Di ritorno a casa la sera, andrò a fare una passeggiata di 10 minuti”* (Ricorda: puoi sempre aumentare la durata e l’intensità dell’abitudine in un secondo momento).
 
@@ -276,7 +276,7 @@ I nostri bisogni fisici sono essenziali, ma non siamo solo animali, siamo animal
 
 ## Abitudini per proteggere i tuoi bisogni sociali:
 
-Le connessioni sociali di altà qualità, non a caso, [riducono la depressione e l’ansia [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf). E, “sorprendentemente”, [riduce del 50% i rischi di morte prematura](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline). (E comunque, non dovrebbe essere *più* stupire che l’hardware influenzi il software e viceversa).
+Le connessioni sociali di altà qualità, non a caso, [riducono la depressione e l’ansia [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf). E, “sorprendentemente”, [riduce del 50% i rischi di morte prematura](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline). (E comunque, non dovrebbe essere *più* stupire che l’hardware influenzi il software e viceversa)
 
 ### 👯‍♂️ Parlare con gli amici
 
@@ -288,7 +288,7 @@ Qualche consiglio basato su fatti personali:
 
 Inoltre, parla con loro dei tuoi pensieri e delle tue emozioni! Oltre a rafforzare l’amicizia, credo che condividere le tue emozioni con un’altra persona migliori la salute mentale allo stesso modo di scriverle sul diario: spiegare le tue emozioni fa in modo che tu riesca a comprenderle.
 
-**Esempio piano Quando→Allora:** *“Ogni primo lunedì del mese, farò una videochiamata quella persona amica che vive nel desolato e lontano New Haven, Connecticut”.*
+**Esempio piano Quando→Allora:** *“Ogni primo lunedì del mese, farò una videochiamata con quella persona amica che vive nel desolato e lontano New Haven, Connecticut”.*
 
 ### 🎳 Fare nuove amicizie
 
@@ -304,11 +304,11 @@ Infine, i nostri bisogni fisici e sociali sono essenziali, ma non siamo solo ani
 
 ## Abitudini per proteggere i tuoi bisogni morali:
 
-L’ultima decade de ["la scienza della felicità"](https://it.wikipedia.org/wiki/Psicologia_positiva) si è occupata di come la felicità non è abbastanza.
+L’ultima decade de ["la scienza della felicità"](https://it.wikipedia.org/wiki/Psicologia_positiva) si è occupata di come la felicità non sia abbastanza.
 
-Al giorno d’oggi, i ricercatori riconoscono [due tipologie di benessere [pdf]](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf) – **Edonia**, il piacere ed il divertimento, ed **Eudemonia**, il proposito e l’adempimento. Non sono opposti, ma differenti. Ovviamente [l’eudemoniaprevede una migliore salute fisica e psicologica [pdf]](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf).
+Al giorno d’oggi, i ricercatori riconoscono [due tipologie di benessere [pdf]](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf) – **Edonia**, il piacere ed il divertimento, ed **Eudemonia**, il proposito e l’adempimento. Non sono opposti, ma differenti. Ovviamente [l’eudemonia prevede una migliore salute fisica e psicologica [pdf]](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf).
 
-Quindi, come trovare il senso della vita? Boh, lasciamo questa domanda ai filosofi. Ad ogni modo, *nella* vita puoi trovare *molti* sensi, come: essere buoni amici, crescere dei figli, So, how do you find the meaning of life? Dunno, that's a question for philosophers. However, you can find *many* meaning(s) *in* life, like being a good friend, raising a child, fare volontariato per una causa... e spingerti al massimo del tuo potenziale umano, con abitudini quali:
+Quindi, come trovare il senso della vita? Boh, lasciamo questa domanda ai filosofi. Ad ogni modo, *nella* vita puoi trovare *molti* sensi, come: essere buoni amici, crescere dei figli, fare volontariato per una causa... e spingerti al massimo del tuo potenziale umano, con abitudini quali:
 
 ### 💭 Imparare
 
@@ -326,7 +326,7 @@ Benjamin Franklin è stato il primo hacker della vita. Tra un esperimento con i 
 
 Penso che possiamo farlo anche noi. Non devi usare lo stesso metodo di Franklin. Anzi, consiglio di essere più specifici di “praticare l’umiltà”, e avere un piano Quando→Allora più specifico:
 
-**Esempio piano Quando→Allora:** *“Quando sto per postare qualcosa di rabbioso su internet, aspetterò un’ora prima di cliccare “invia””.*
+**Esempio piano Quando→Allora:** *“Quando sto per postare qualcosa di rabbioso su internet, aspetterò un’ora prima di cliccare “invia”.*
 
 “Sii il cambiamento che vuoi vedere nel mondo” eccetera eccetera.
 
@@ -343,7 +343,7 @@ Aspetta, il mio amico vuole dire qualcosa:
 
 > 🐺 Aah! Abbiamo blaterato più di 3500 parole! Come faranno i lettori a ricordarsi tutto?!
 
-Hai ragione! Rinfreschiamo la memoria dei lettori con un riassunto:
+Hai ragione! Rinfreschiamo loro la memoria con un riassunto:
 
 ---
 
@@ -365,13 +365,13 @@ Hai ragione! Rinfreschiamo la memoria dei lettori con un riassunto:
 
 # Io e il mio lupo
 
-Se fosse un film, avrei imparato a farmi amico il lupo in un momento scioccante di catarsi, con tanto di esplosioni alle mie spalle. Sarebbe stata una bella storia.
+Se questo fosse un film, avrei imparato a farmi amico il lupo in un momento scioccante di catarsi, con tanto di esplosioni alle mie spalle. Sarebbe stata una bella storia.
 
 E invece, ho imparato a farmelo amico solo *mentre provavo* a creare una bella storia.
 
 Quando ho iniziato a scrivere il mio gioco *Avventure con l’Ansia*, volevo fosse un mucchio di lezioni su PCC e consapevolezza di sé impacchettate in una narrazione. C’erano due problemi: 1) la storia non sembrava autentica; 2) non riuscivo a rendere spontanei i dialoghi del personaggio dell’Ansia.
 
-Poi ho scoperto una soluzione ovvia per il secondo problema: non dovevo scrivere *io* il personaggio dell’Ansia, ma doveva essere il personaggio dell’Ansia a farlo.
+Poi ho trovato una soluzione ovvia per il secondo problema: non dovevo scrivere *io* il personaggio dell’Ansia, ma doveva essere il personaggio dell’Ansia a farlo.
 
 Da qui è iniziata un’insolita collaborazione.
 
@@ -384,7 +384,7 @@ Penso:
 1) Porca t****, che paura!
 2) Questo è un *incredibile* materiale da scrivere! Grazie, lupo!
 
-Questo ha anche risolto il primo problema: il motivo per cui la storia sembrava forzata era perché non ho mai dato al personaggio dell’Ansia una vera motivazione. Era solo un nemico in stile Skeletor “cattivo per essere cattivo”. Ma quando ho *chiesto* all’ansia quale fosse la sua motivazione, mi ha risposto:
+Questo ha anche risolto il primo problema: il motivo per cui la storia sembrava forzata era perché non avevo mai dato al personaggio dell’Ansia una vera motivazione. Era solo un nemico in stile Skeletor, “cattivo per essere cattivo”. Ma quando ho *chiesto* all’ansia quale fosse la sua motivazione, mi ha risposto:
 
 > 🐺 Voglio che tu sia al sicuro.
 
@@ -392,17 +392,17 @@ E con quella motivazione principale, *Avventure con l’Ansia* si è praticament
 
 Fino a che non realizzi che la paura è il tuo cane da guardia (o almeno prova ad esserlo), continuerai ad aver paura della paura.
 
-E più collaboro con il mio malconcio cane da rifugio, più collaboreremo per tutta la vita. Se sento abbaiarlo “ci odiano!”, sento il segnale del dolore sotto le mere parole, sperimenteremo per soddisfare i bisogni. Come una squadra.
+E più collaboro con il mio malconcio cane da rifugio, più collaboreremo per tutta la vita. Se lo sento abbaiare e dire “ci odiano!”, sento il segnale del dolore sotto le mere parole, sperimenteremo per soddisfare i bisogni. Come una squadra.
 
 Va bene, penso che lascerò la parola al mio amico. Lupo?
 
-> 🐺 Ok, questo articolo è *ancora* troppo lungo. Più di 4000 parole! O forse non è lungo *abbastanza*, non hai nemmeno trattato altre terapie come la psicodinamica, l’umanista, o la logoterapia, senza contare la controversia sui dodo: [metanalisi recenti dimostrano che tutte le psicoterapie sono *equivalenti*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), forse la PCC *leggermeeeeente* meglio a breve termine! A proposito, vogliamo parlare di quella famigerata metanalisi che dimostra che [la medicazione psichiatrica potrebbere arrivare al 75% di placebo](https://psycnet.apa.org/record/1999-11094-001)? Cavolo, vista [la crisi di replicazione](https://it.wikipedia.org/wiki/Crisi_della_replicazione), come facciamo a sapere che *tutto* ciò che è scritto in questo mostro di 4000 e passa parole sia scientificamente accurato?! Poi oggi stiamo scrivendo che è il 15, e avevi promesso che il gioco uscisse il 17, quindi fai silenzio e smettila di scrivere.
+> 🐺 Ok, questo articolo è *ancora* troppo lungo. Più di 4000 parole! O forse non è lungo *abbastanza*, non hai nemmeno trattato altre terapie come la psicodinamica, l’umanista, o la logoterapia, senza contare la controversia sui dodo: [metanalisi recenti dimostrano che tutte le psicoterapie sono *equivalenti*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), forse la PCC *leggermeeeeente* meglio a breve termine! A proposito, vogliamo parlare di quella famigerata metanalisi che dimostra che [la medicazione psichiatrica potrebbere arrivare al 75% di placebo](https://psycnet.apa.org/record/1999-11094-001)? Cavolo, vista [la crisi della replicazione](https://it.wikipedia.org/wiki/Crisi_della_replicazione), come facciamo a sapere che *tutto* ciò che è scritto in questo mattone di 4000 e passa parole sia scientificamente accurato?! Poi oggi stiamo scrivendo che è il 15, e avevi promesso che il gioco uscisse il 17, quindi fai silenzio e smettila di scrivere.
 
 Mi sembra giusto! Nella scienza va bene essere scettici, ma vorrei dire: anche se è stato provato che tutte le terapie siano equivalenti, sono comunque *equivalentemente* buone, e comunque migliori di una mancanza di terapia (auto-aiuto o professionale). E anche se i farmaci sono 25% migliori della placebo, essere 25% migliori a salvare le vite è sempre *tanto*. Inoltre, la scienza è un processo di imparare dagli errori, e per fortuna, gli scienziati *stanno* imparando dalla crisi della replicazione.
 
 Grazie comunque per la critica costruttiva, e per proteggere il mio bisogno di onestà intellettuale!
 
-> 🐺 Non c’è di che. E, ehi, grazie per essere finalmente paziente ed indulgente con me… invece di soffocarmi con comportamenti rischiosi e con i “beh, a dire il vero”.
+> 🐺 Non c’è di che. E, ehi, grazie per essere finalmente paziente ed indulgente con me… invece di soffocarmi con comportamenti rischiosi e con i “a dire il vero”.
 
 Figurati! Qualche parola finale?
 
@@ -424,9 +424,9 @@ Ulteriori consigli sulla salute mentale: [Mental Health Foundation](https://www.
 
 ・・・
 
-Questo articolo è l’”opera complementare” per il mio gioco narrativo, [Avventure con l’Ansia](https://ncase.me/anxiety). Se vuoi aiutarmi a creare giochi o parole educative gratuiti, puoi lanciarmi monete [on Patreon](https://www.patreon.com/ncase)!
+Questo articolo è l’”opera complementare” del mio gioco narrativo, [Avventure con l’Ansia](https://ncase.me/anxiety). Se vuoi aiutarmi a creare giochi o parole educative gratuiti, puoi lanciarmi monete [su Patreon](https://www.patreon.com/ncase)!
 
-Un enorme ringraziamento a tutte queste persone per avermi regalato dei feedback sul saggio: Glen Chiacchieri, Lexi Lockwell, Spacie. Any problematic words remaining are my own.
+Un enorme ringraziamento a tutte queste persone per avermi dato i loro feedback sul saggio: Glen Chiacchieri, Lexi Lockwell, Spacie. Sono responsabile di qualsiasi eventuale refuso.
 
 Infine, grazie a *te* per la lettura! Chiunque tu sia: non mollare. Buona fortuna.
 
