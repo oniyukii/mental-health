@@ -218,7 +218,7 @@ Tuttavia, c’è un altro cliché sulla meditazione che andrebbe smentito: l’o
 
 Anche se prima stavo criticando la “consapevolezza di sé” (o la mia mancata attuazione di essa), la meditazione *è* profondamente d’aiuto per la mia vita.
 
-**Esempio piano Quando→Allora:** *“Dopo aver lavato i denti la mattina, andrò in soggiorno e imposterò il timer per meditare per 2 minuti”.*
+**Esempio piano Quando→Allora:** *“Dopo aver lavato i denti la mattina, andrò in soggiorno e imposterò il timer per meditare per 2 minuti”*
 
 Consigliato: [video animato di introduzione alla meditazione di 2 minuti](https://www.youtube.com/watch?v=rqoxYKtEWEc).
 
@@ -228,13 +228,13 @@ Altro cliché, ma è stato dimostrato che scrivere delle proprie emozioni [migli
 
 Non sai come iniziare a scrivere per capire le tue emozioni? Ecco uno schemino:
 
-*”Oggi, quando [evento], mi sentivo [emozione], perché sembrava soddisfasse/minacciasse il mio bisogno di [bisogno]. La prossima volta, proverò a [sperimentazione su quel bisogno]”.*
+*"Oggi, quando [evento], mi sentivo [emozione], perché sembrava soddisfasse/minacciasse il mio bisogno di [bisogno]. La prossima volta, proverò a [sperimentazione su quel bisogno]”*
 
-Esempio: *"Oggi, quando i miei amici stavano parlando senza di me, mi sentivo in ansia perché sembrava minacciasse il mio bisogno di appartenenza. La prossima volta, proverò a soddisfare il mio bisogno di appartenenza parlando un po’ di più, o esercitandomi a stare più a mio agio ascoltando i miei amici, attivamente ed integralmente, senza dover intervenire per dimostrare la mia esistenza”.*
+Esempio: *"Oggi, quando i miei amici stavano parlando senza di me, mi sentivo in ansia perché sembrava minacciasse il mio bisogno di appartenenza. La prossima volta, proverò a soddisfare il mio bisogno di appartenenza parlando un po’ di più, o esercitandomi a stare più a mio agio ascoltando i miei amici, attivamente ed integralmente, senza dover intervenire per dimostrare la mia esistenza”*
 
-(Per quanto prima abbia criticato lo “sfidare le tue emozioni”, è *qui* che entra in gioco la PCC. Conoscere le [comuni distorsioni cognitive](https://en.wikipedia.org/wiki/Cognitive_distortion) e come rielaborarle ti *aiuta* a dare un senso ai segnali di dolore. Non devi affrontarle come in un club di dibattito: lo scopo non è “vincere” la tua paura a suon di “a dire il vero”, ma dovrebbe essere aiutarla ad *essere un aiutante migliore*. Aiutala ad aiutarti.
+(Per quanto prima abbia criticato lo “sfidare le tue emozioni”, è *qui* che entra in gioco la PCC. Conoscere le [comuni distorsioni cognitive](https://en.wikipedia.org/wiki/Cognitive_distortion) e come rielaborarle ti *aiuta* a dare un senso ai segnali di dolore. Non devi affrontarle come in un club di dibattito: lo scopo non è “vincere” la tua paura a suon di “a dire il vero”, ma dovrebbe essere aiutarla ad *essere un aiutante migliore*. Aiutala ad aiutarti).
 
-**Esempio piano Quando→Allora:** *“Prima di andare a dormire, scriverò o disegnerò qualcosa sulle mie emozioni per 10 minuti”.*
+**Esempio piano Quando→Allora:** *“Prima di andare a dormire, scriverò o disegnerò qualcosa sulle mie emozioni per 10 minuti”*
 
 ・・・
 
@@ -250,15 +250,15 @@ Ecco come mi sento quando gli articoli si sorprendono che la salute fisica influ
 
 Se la selezione naturale decidesse di metterti KO per un terzo della tua vita, puoi *scommetterci* la casa che ci deve essere un grosso vantaggio nel giustificare un rapporto costi/benefici del genere.
 
-Ed è così. Il direttore del Centro per la Scienza Umana del Sonno dell’Università di Berkeley in California, [nel suo libro](https://www.indiebound.org/book/9781501144318), spiega che una buona dormita riduce i rischi di cardiopatie, cancro, Alzheimer, depressione, ansia, e tanto altro. Come disse una volta l’autore di un best-seller per bambini: [Vai a dormire, c***o! ](https://www.indiebound.org/book/9781617750250).”
+Ed è così. Il direttore del Centro per la Scienza Umana del Sonno dell’Università di Berkeley in California, [nel suo libro](https://www.indiebound.org/book/9781501144318), spiega che una buona dormita riduce i rischi di cardiopatie, cancro, Alzheimer, depressione, ansia, e tanto altro. Come disse una volta l’autore di un best-seller per bambini: [Vai a dormire, c***o! ](https://www.indiebound.org/book/9781617750250).
 
-**Esempio piano Quando→Allora:** *“Alle 10 di sera, spegnerò tutti i dispositivi, li metterò in carica fuori dalla camera da letto, in un bidone, dove appartengono”.*
+**Esempio piano Quando→Allora:** *“Alle 10 di sera, spegnerò tutti i dispositivi, li metterò in carica fuori dalla camera da letto, in un bidone, dove appartengono”*
 
 Consigliato: [F.lux](https://justgetflux.com/). Un’app che imposta lo schermo in modalità sera, perché la luce blu distrugge il ciclo di sonno.
 
 ### 🏃‍♀️ Esercizio:
 
-Andare a correre. Fare un’escursione. Giocare col frisbee. Basta una mezz’ora al giorno di esercizio moderato per dare grandi benefici alla salute fisica *e* mentale. [Una recente metanalisi](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) dimostra che fare esercizio riduce la depressione *quanto* la psicoterapia o i farmaci.
+Andare a correre. Fare un’escursione. Giocare col frisbee. Basta una mezz’ora al giorno di esercizio moderato per dare grandi benefici alla salute fisica *e mentale*. [Una recente metanalisi](https://www.sciencedirect.com/science/article/abs/pii/S0022395616300383) dimostra che fare esercizio riduce la depressione *quanto* la psicoterapia o i farmaci!
 
 **Esempio piano Quando→Allora:** *“Di ritorno a casa la sera, andrò a fare una passeggiata di 10 minuti”* (Ricorda: puoi sempre aumentare la durata e l’intensità dell’abitudine in un secondo momento).
 
@@ -268,7 +268,7 @@ I batteri intestinali producono il 90% della serotonina nel tuo corpo. Quindi: t
 
 Ci sono trilioni di diete, ma molte di queste non hanno una base scientifica… e la scienza è piena di repliche e tentativi falliti. Io personalmente seguo la dieta anti-dieta di Michael Pollan: [mangiare cibo ma non troppo, perlopiù piante](https://www.indiebound.org/book/9780143114963/Michael-Pollan/Defense-Food).
 
-**Esempio piano Quando→Allora:** *“Prima di andare a fare la spesa, mangerò un frutto, così mi farò passare la fame e la voglia di comprare le Cheetos al cioccolato. Di nuovo”.*
+**Esempio piano Quando→Allora:** *“Prima di andare a fare la spesa, mangerò un frutto, così mi farò passare la fame e la voglia di comprare le Cheetos al cioccolato. Di nuovo”*
 
 ・・・
 
@@ -276,19 +276,19 @@ I nostri bisogni fisici sono essenziali, ma non siamo solo animali, siamo animal
 
 ## Abitudini per proteggere i tuoi bisogni sociali:
 
-Le connessioni sociali di altà qualità, non a caso, [riducono la depressione e l’ansia [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf). E, “sorprendentemente”, [riduce del 50% i rischi di morte prematura](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline). (E comunque, non dovrebbe essere *più* stupire che l’hardware influenzi il software e viceversa)
+Le connessioni sociali di altà qualità, non a caso, [riducono la depressione e l’ansia [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3455910/pdf/11524_2006_Article_44.pdf). E, “sorprendentemente”, [riduce del 50% i rischi di morte prematura](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316&mod=article_inline). (E comunque, non dovrebbe *più* sorprendere che l’hardware influenzi il software e viceversa)
 
 ### 👯‍♂️ Parlare con gli amici
 
 Qualche consiglio basato su fatti personali:
 
 1. Quando *possibile*: chiacchierata di persona > videochiamata > chiamata > messaggio/mail.
-2. Incontra amici *al di fuori* del solito contesto. Esempi: incontrarsi con i colleghi *al di fuori* del lavoro, *uscire* con i coinquilini e andare al cinema. Altrimenti potresti perderci i contatti se cambi lavoro o casa.
-3. Dato che siamo tutti delle api indaffarate che vivono nel proprio alveare rettangolare chiamato calendario, *organizza regolarmente le uscite tra amici*. Rendi l’amicizia un’*abitudine* per te e per loro.
+2. Incontra gli amici *al di fuori* del solito contesto. Esempi: incontrarsi con i colleghi *al di fuori* del lavoro, *uscire* con i coinquilini e andare al cinema. Altrimenti potresti perderci i contatti se cambi lavoro o casa.
+3. Dato che siamo tutti delle api indaffarate che vivono nel proprio alveare rettangolare chiamato calendario, *organizza regolarmente le uscite*. Rendi l’amicizia un’*abitudine* per te e per loro.
 
 Inoltre, parla con loro dei tuoi pensieri e delle tue emozioni! Oltre a rafforzare l’amicizia, credo che condividere le tue emozioni con un’altra persona migliori la salute mentale allo stesso modo di scriverle sul diario: spiegare le tue emozioni fa in modo che tu riesca a comprenderle.
 
-**Esempio piano Quando→Allora:** *“Ogni primo lunedì del mese, farò una videochiamata con quella persona amica che vive nel desolato e lontano New Haven, Connecticut”.*
+**Esempio piano Quando→Allora:** *“Ogni primo lunedì del mese, farò una videochiamata con quella persona amica che vive nel desolato e lontano New Haven, Connecticut”*
 
 ### 🎳 Fare nuove amicizie
 
@@ -296,7 +296,7 @@ Opzione 1: chiedere ai tuoi amici di presentarti i loro amici (es: andate a vede
 
 Opzione 2: unisciti a una classe, un gruppo di volontariato, o una lega di bowling su [Meetup.com](https://www.meetup.com/). (Non mi pagano per pubblicizzarli). Lavoro in autonomia, e trasferendomi in una nuova città non conoscevo nessuno, ma Meetup mi ha aiutato a fare nuove amicizie velocemente! Ricordati solo di incontrare i tuoi nuovi amici anche *al di fuori* di questi incontri.
 
-**Esempio piano Quando→Allora:** *“Ogni giovedì sera, andrò al Meetup di francese pour pratiquer mon terrible français.”*
+**Esempio piano Quando→Allora:** *“Ogni giovedì sera, andrò al Meetup di francese pour pratiquer mon terrible français”*
 
 ・・・
 
@@ -306,7 +306,7 @@ Infine, i nostri bisogni fisici e sociali sono essenziali, ma non siamo solo ani
 
 L’ultima decade de ["la scienza della felicità"](https://it.wikipedia.org/wiki/Psicologia_positiva) si è occupata di come la felicità non sia abbastanza.
 
-Al giorno d’oggi, i ricercatori riconoscono [due tipologie di benessere [pdf]](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf) – **Edonia**, il piacere ed il divertimento, ed **Eudemonia**, il proposito e l’adempimento. Non sono opposti, ma differenti. Ovviamente [l’eudemonia prevede una migliore salute fisica e psicologica [pdf]](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf).
+Al giorno d’oggi, i ricercatori riconoscono [due tipologie di benessere [pdf]](http://www.preptheday.com/uploads/1/2/0/0/120050120/hedonia_eudaimonia_and_well-being.pdf) – **Edonia**, il piacere e il divertimento, ed **Eudemonia**, il dovere e l’adempimento. Non sono opposti, ma differenti. Ovviamente [l’eudemonia prevede una migliore salute fisica e psicologica [pdf]](https://www.researchgate.net/profile/Veronika_Huta/publication/23545617_Living_well_A_self-determination_theory_perspective_on_eudaimonia/links/546ce1330cf26e95bc3ca838/Living-well-A-self-determination-theory-perspective-on-eudaimonia.pdf).
 
 Quindi, come trovare il senso della vita? Boh, lasciamo questa domanda ai filosofi. Ad ogni modo, *nella* vita puoi trovare *molti* sensi, come: essere buoni amici, crescere dei figli, fare volontariato per una causa... e spingerti al massimo del tuo potenziale umano, con abitudini quali:
 
@@ -316,7 +316,7 @@ Quindi, come trovare il senso della vita? Boh, lasciamo questa domanda ai filoso
 
 Scegli *qualcosa* e riserva un giorno alla settimana (o un’ora al giorno) per leggere un libro o [praticare deliberamente](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice) un’abilità.
 
-**Esempio piano Quando→Allora:** *“Ogni domenica sera, proverò una nuova ricetta”.*
+**Esempio piano Quando→Allora:** *“Ogni domenica sera, proverò una nuova ricetta”*
 
 Consigliato: la ripetizione dilazionata ("flashcard sotto steroidi") ti aiuta a memorizzare quello che impari. Guarda [questo video di 7 minuti](https://www.youtube.com/watch?v=eVajQPuRmk8) o leggi [questo saggio di 80 minuti](http://augmentingcognition.com/ltm.html).
 
@@ -326,7 +326,7 @@ Benjamin Franklin è stato il primo hacker della vita. Tra un esperimento con i 
 
 Penso che possiamo farlo anche noi. Non devi usare lo stesso metodo di Franklin. Anzi, consiglio di essere più specifici di “praticare l’umiltà”, e avere un piano Quando→Allora più specifico:
 
-**Esempio piano Quando→Allora:** *“Quando sto per postare qualcosa di rabbioso su internet, aspetterò un’ora prima di cliccare “invia”.*
+**Esempio piano Quando→Allora:** *“Quando sto per postare qualcosa di rabbioso su internet, aspetterò un’ora prima di cliccare Invia”*
 
 “Sii il cambiamento che vuoi vedere nel mondo” eccetera eccetera.
 
@@ -398,7 +398,7 @@ Va bene, penso che lascerò la parola al mio amico. Lupo?
 
 > 🐺 Ok, questo articolo è *ancora* troppo lungo. Più di 4000 parole! O forse non è lungo *abbastanza*, non hai nemmeno trattato altre terapie come la psicodinamica, l’umanista, o la logoterapia, senza contare la controversia sui dodo: [metanalisi recenti dimostrano che tutte le psicoterapie sono *equivalenti*](https://www.sciencedirect.com/science/article/pii/S0272735814001184), forse la PCC *leggermeeeeente* meglio a breve termine! A proposito, vogliamo parlare di quella famigerata metanalisi che dimostra che [la medicazione psichiatrica potrebbere arrivare al 75% di placebo](https://psycnet.apa.org/record/1999-11094-001)? Cavolo, vista [la crisi della replicazione](https://it.wikipedia.org/wiki/Crisi_della_replicazione), come facciamo a sapere che *tutto* ciò che è scritto in questo mattone di 4000 e passa parole sia scientificamente accurato?! Poi oggi stiamo scrivendo che è il 15, e avevi promesso che il gioco uscisse il 17, quindi fai silenzio e smettila di scrivere.
 
-Mi sembra giusto! Nella scienza va bene essere scettici, ma vorrei dire: anche se è stato provato che tutte le terapie siano equivalenti, sono comunque *equivalentemente* buone, e comunque migliori di una mancanza di terapia (auto-aiuto o professionale). E anche se i farmaci sono 25% migliori della placebo, essere 25% migliori a salvare le vite è sempre *tanto*. Inoltre, la scienza è un processo di imparare dagli errori, e per fortuna, gli scienziati *stanno* imparando dalla crisi della replicazione.
+Mi sembra giusto! Nella scienza va bene essere scettici, ma vorrei dire: anche se è stato provato che tutte le terapie siano equivalenti, sono comunque equivalentemente *valide* e migliori di una mancanza di terapia (auto-aiuto o professionale). E anche se i farmaci sono 25% migliori della placebo, essere 25% migliori a salvare le vite è sempre *tanto*. Inoltre, la scienza è un processo di imparare dagli errori, e per fortuna, gli scienziati *stanno* imparando dalla crisi della replicazione.
 
 Grazie comunque per la critica costruttiva, e per proteggere il mio bisogno di onestà intellettuale!
 
@@ -424,11 +424,11 @@ Ulteriori consigli sulla salute mentale: [Mental Health Foundation](https://www.
 
 ・・・
 
-Questo articolo è l’”opera complementare” del mio gioco narrativo, [Avventure con l’Ansia](https://ncase.me/anxiety). Se vuoi aiutarmi a creare giochi o parole educative gratuiti, puoi lanciarmi monete [su Patreon](https://www.patreon.com/ncase)!
+Questo articolo è l’”opera complementare” del mio gioco narrativo interattivo, [Avventure con l’Ansia](https://ncase.me/anxiety). Se vuoi aiutarmi a creare giochi o parole educative gratuiti, puoi lanciarmi monete [su Patreon](https://www.patreon.com/ncase)!
 
-Un enorme ringraziamento a tutte queste persone per avermi dato i loro feedback sul saggio: Glen Chiacchieri, Lexi Lockwell, Spacie. Sono responsabile di qualsiasi eventuale refuso.
+Un enorme ringraziamento a tutte queste persone per avermi dato i loro feedback sul saggio: Glen Chiacchieri, Lexi Lockwell, Spacie. Sono responsabile di qualsiasi eventuale refuso. 
 
-Infine, grazie a *te* per la lettura! Chiunque tu sia: non mollare. Buona fortuna.
+Infine, grazie a *te* per aver letto! Chiunque tu sia: non mollare. Buona fortuna.
 
 <3,    
 ~ Nicky Case
